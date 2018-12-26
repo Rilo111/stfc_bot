@@ -1,5 +1,5 @@
 {
-  "name": "greeter-bot",
+  "name": "stfc-info-bot",
   "version": "1.0.0",
   "description": "Star Trek Fleet Command Info Bot",
   "main": "bot.js",

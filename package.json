@@ -4,6 +4,9 @@
   "description": "Star Trek Fleet Command Info Bot",
   "main": "bot.js",
   "author": "Rilo",
+  "scripts": {
+    "start": "bot.js"
+  },
   "dependencies": {
     "discord.io": "github:woor/discord.io#gateway_v6",
     "winston": "^3.1.0"
